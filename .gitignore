@@ -1,0 +1,7 @@
+__pycache__/
+database/*.csv
+images/
+.vscode/
+.idea/
+*.pyc
+.env
